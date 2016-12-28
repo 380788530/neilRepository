@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="apkutils"
+  id="myeclipse.1482750221652"
+  context-root="/apkutils"
+  j2ee-spec="1.7"
+  archive="apkutils.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
